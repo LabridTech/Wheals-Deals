@@ -1,4 +1,5 @@
-Wheels and Deal is a car buying and selling platform that brings a sporty, sleek design to the online automobile marketplace. Catering to car enthusiasts and everyday buyers alike, the site provides a seamless experience for browsing, purchasing, and selling cars. Its vibrant, energetic design reflects the dynamic nature of the automotive world, making it the go-to hub for anyone looking to buy or sell vehicles with ease and excitement.
+Wheels and Deal
+It is a car buying and selling platform that brings a sporty, sleek design to the online automobile marketplace. Catering to car enthusiasts and everyday buyers alike, the site provides a seamless experience for browsing, purchasing, and selling cars. Its vibrant, energetic design reflects the dynamic nature of the automotive world, making it the go-to hub for anyone looking to buy or sell vehicles with ease and excitement.
 
 Challenges:
 
